@@ -65,3 +65,6 @@ node index.js
 ## Customize
 - Edit `BANNED_WORDS` array in `index.js` to add your own banned words
 - Change `SPAM_THRESHOLD` and `SPAM_WINDOW_MS` to tune anti-spam sensitivity
+Bot logo/icon for your Karan Discord bot<img width="702" height="656" alt="image" src="https://github.com/user-attachments/assets/e6df455e-cf38-43db-84e9-bf9fd5fe7192" />
+
+
